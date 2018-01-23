@@ -1364,8 +1364,8 @@ body {
   min-height: 100vh;
 }
 .cid-qHAam4PM14 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qHAam4PM14 .socicon-bg-facebook {
@@ -1407,6 +1407,9 @@ body {
   .cid-qHAam4PM14 .btn {
     font-size: 20px !important;
   }
+}
+.cid-qHAam4PM14 .mbr-section-title {
+  color: #7f1933;
 }
 .cid-qHAaOBf1TK {
   padding-top: 60px;
